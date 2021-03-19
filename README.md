@@ -2,6 +2,10 @@
 <div align="center">
   <a href="mailto:fedorov.denis.developer@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/IamDisaster"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/denisdeveloper/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-#0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://vk.com/iamdisaster"><img alt="VK" src="https://img.shields.io/badge/vkontakte-#2787f5?style=for-the-badge&logo=vk&logoColor=white"></a>
+  <a href="https://twitter.com/Denis20935060"><img alt="VK" src="https://img.shields.io/badge/twitter-#1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.facebook.com/developerdenis"><img alt="VK" src="https://img.shields.io/badge/facebook-#1877f2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div> <br>
 
 <p align="center">I am a front-end developer. I am making responsive websites.</p> <br>
