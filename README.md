@@ -35,6 +35,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-developer&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-developer&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=Denis-developer&column=7&theme=onedark&no-frame=true" width="825px">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Denis-developer&theme=onedark&v=2" align="left" width="480px" height="215px">
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamdisaster&theme=onedark&v=2" align="left" width="480px" height="215px">
