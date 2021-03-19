@@ -7,21 +7,21 @@
 <p align="center">I am a front-end developer. I am making responsive websites.</p> <br>
 
 <p>
+    <img src="https://img.shields.io/badge/-html5-E44D26?logo=html5&style=flat-square&logoColor=white?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/badge/-css3-25A1E1?logo=css3&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-javascript-F1A324?logo=javascript&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-jquery-0868AC?logo=jquery&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-sass-C76494?logo=sass&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-less-1D3F6C?logo=less&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-sass-C76494?logo=sass&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-jquery-0868AC?logo=jquery&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-html5-E44D26?logo=html5&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-css3-25A1E1?logo=css3&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-gulp-CA4545?logo=gulp&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-pug-53312A?logo=pug&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-bootstrap-563D7C?logo=bootstrap&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-javascript-F1A324?logo=javascript&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-stylelint-000000?logo=stylelint&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-eslint-4930BD?logo=eslint&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-gulplint-53312A?logo=eslint&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-less-1D3F6C?logo=less&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-npm-C53635?logo=npm&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-pug-53312A?logo=pug&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-photoshop-2FA3F7?logo=adobe-photoshop&style=flat-square&logoColor=white">
   
 </p> <br><br><br>
