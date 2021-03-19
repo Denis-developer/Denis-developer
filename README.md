@@ -36,8 +36,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-developer&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-developer&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=Denis-developer&column=7&theme=onedark&no-frame=true" width="825px">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Denis-developer&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Denis-developer&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Denis-developer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Denis-developer/Denis-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
