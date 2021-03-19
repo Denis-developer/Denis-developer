@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm <a href="https://denis-developer.github.io">Denis</a></h2>
+<div align="center">
+  <a href="mailto:fedorov.denis.developer@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/IamDisaster"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div> <br>
 <!--
 **Denis-developer/Denis-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
