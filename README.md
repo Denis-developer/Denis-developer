@@ -10,7 +10,7 @@
   
 </div> <br>
 
-<p align="center">I am a front-end developer. I am making responsive websites.</p> <br>
+<p align="center">I am a front-end developer. I am making responsive websites.</p> 
 
 <h5>Languages and Tools</h5>
 <p  align="center">
@@ -38,7 +38,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Denis-developer&column=7&theme=onedark&no-frame=true" width="825px">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Denis-developer&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Denis-developer&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Denis-developer&theme=onedark&v=2" align="left" width="480px" height="215px">
 <!--
 **Denis-developer/Denis-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
