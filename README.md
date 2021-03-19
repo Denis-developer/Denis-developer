@@ -1,4 +1,5 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm <a href="https://denis-developer.github.io">Denis</a></h2>
+<h5>Follow me</h5>
 <div align="center">
   <a href="mailto:fedorov.denis.developer@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/IamDisaster"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -11,7 +12,8 @@
 
 <p align="center">I am a front-end developer. I am making responsive websites.</p> <br>
 
-<p>
+<h5>Languages and Tools</h5>
+<p  align="center">
     <img src="https://img.shields.io/badge/-html5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-css3-25A1E1?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/-javascript-F1A324?style=for-the-badge&logo=javascript&logoColor=white">
@@ -30,6 +32,8 @@
     <img src="https://img.shields.io/badge/-photoshop-2FA3F7?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
   
 </p> <br><br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-developer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Denis-developer/Denis-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
