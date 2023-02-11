@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">I am a front-end developer. I am making responsive websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denis-developer&label=Profile%20views&color=0e75b6&style=flat" alt="denis-developer" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://denis-developer.github.io/](https://denis-developer.github.io/)
